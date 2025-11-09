@@ -1,0 +1,9 @@
+# flutter_native_splash:
+#   color: "#DFDFDF"  # Matches your Flutter splash screen background
+#   android_gravity: center
+#   ios_content_mode: scaleAspectFit
+
+#   android_12:
+#     color: "#DFDFDF"
+#     icon_background_color: "#DFDFDF"
+#     branding: null
